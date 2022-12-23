@@ -1,0 +1,1 @@
+All solutions are efficient and pass hackerrank's tests.
